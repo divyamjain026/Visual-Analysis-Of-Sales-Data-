@@ -1,6 +1,6 @@
-📊 SALES DASHBOARD 
+# **📊 SALES DASHBOARD** 
 
-📝 Overview
+## **📝 Overview**
 This interactive Sales Dashboard provides a visual summary and detailed insights into company sales performance across multiple dimensions — including region, product, salesperson, and time (month). It is designed to help stakeholders make data-driven decisions and track KPIs effectively.
 
 🔧 Features & KPIs Tracked
@@ -50,7 +50,7 @@ Visual: Donut Chart
 
 Insight: Strong performance across Jan–Mar, noticeable decline in April.
 
-📈 Use Cases
+# **📈 Use Cases**
 ✅ Performance Tracking — Monitor top sales regions, products, and personnel.
 
 ✅ Strategic Planning — Identify areas for improvement and optimization.
@@ -59,7 +59,7 @@ Insight: Strong performance across Jan–Mar, noticeable decline in April.
 
 ✅ Sales Campaigns — Help design campaigns focused on underperforming products or regions.
 
-🛠️ Tools Used
+# **🛠️ Tools Used**
 📎 Microsoft Excel
 
 📐 Advanced Pivot Tables
